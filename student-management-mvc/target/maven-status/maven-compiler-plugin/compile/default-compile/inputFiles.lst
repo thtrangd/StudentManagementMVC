@@ -1,0 +1,11 @@
+/Users/sicula/Documents/webapp/student-management-mvc/src/main/java/controller/LoginController.java
+/Users/sicula/Documents/webapp/student-management-mvc/src/main/java/model/User.java
+/Users/sicula/Documents/webapp/student-management-mvc/src/main/java/util/PasswordHashGenerator.java
+/Users/sicula/Documents/webapp/student-management-mvc/src/main/java/dao/UserDAO.java
+/Users/sicula/Documents/webapp/student-management-mvc/src/main/java/controller/StudentController.java
+/Users/sicula/Documents/webapp/student-management-mvc/src/main/java/filter/AuthFilter.java
+/Users/sicula/Documents/webapp/student-management-mvc/src/main/java/controller/DashboardController.java
+/Users/sicula/Documents/webapp/student-management-mvc/src/main/java/dao/StudentDAO.java
+/Users/sicula/Documents/webapp/student-management-mvc/src/main/java/model/Student.java
+/Users/sicula/Documents/webapp/student-management-mvc/src/main/java/filter/AdminFilter.java
+/Users/sicula/Documents/webapp/student-management-mvc/src/main/java/controller/LogoutController.java
