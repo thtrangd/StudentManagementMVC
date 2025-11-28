@@ -1,0 +1,12 @@
+/Users/bebot/Documents/web lab/lab6/student_management_mvc/student-management-mvc/src/main/java/model/User.java
+/Users/bebot/Documents/web lab/lab6/student_management_mvc/student-management-mvc/src/main/java/filter/AuthFilter.java
+/Users/bebot/Documents/web lab/lab6/student_management_mvc/student-management-mvc/src/main/java/filter/AdminFilter.java
+/Users/bebot/Documents/web lab/lab6/student_management_mvc/student-management-mvc/src/main/java/dao/UserDAO.java
+/Users/bebot/Documents/web lab/lab6/student_management_mvc/student-management-mvc/src/main/java/model/Student.java
+/Users/bebot/Documents/web lab/lab6/student_management_mvc/student-management-mvc/src/main/java/controller/StudentController.java
+/Users/bebot/Documents/web lab/lab6/student_management_mvc/student-management-mvc/src/main/java/controller/ChangePasswordController.java
+/Users/bebot/Documents/web lab/lab6/student_management_mvc/student-management-mvc/src/main/java/dao/StudentDAO.java
+/Users/bebot/Documents/web lab/lab6/student_management_mvc/student-management-mvc/src/main/java/controller/DashboardController.java
+/Users/bebot/Documents/web lab/lab6/student_management_mvc/student-management-mvc/src/main/java/controller/LoginController.java
+/Users/bebot/Documents/web lab/lab6/student_management_mvc/student-management-mvc/src/main/java/util/PasswordHashGenerator.java
+/Users/bebot/Documents/web lab/lab6/student_management_mvc/student-management-mvc/src/main/java/controller/LogoutController.java

@@ -1,0 +1,12 @@
+filter/AuthFilter.class
+controller/DashboardController.class
+controller/ChangePasswordController.class
+filter/AdminFilter.class
+controller/StudentController.class
+controller/LoginController.class
+dao/UserDAO.class
+controller/LogoutController.class
+model/User.class
+util/PasswordHashGenerator.class
+dao/StudentDAO.class
+model/Student.class
